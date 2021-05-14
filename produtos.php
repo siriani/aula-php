@@ -34,12 +34,15 @@
                 </div>
             </div>
         </nav>
+        <section class="page-section bg-primary" id="about">
+            <div class="container">
+             <br>
+             <br>
+             <br>
+            </div>
+        </section>
         <!-- Masthead-->
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
         <!-- Portfolio-->
         <div id="portfolio">
