@@ -25,9 +25,19 @@
 <h1> Olá pessoas </h1>
 <h2> Olá pessoas </h2>
 
+<a href="index.php"> <button type="button" class="btn btn-primary">Teste</button> </a>
 
-<p> Aqui eu tenho um texto grande que posso </br>escrever infinitamente.</p>
+<br>
+
+<div class="card" style="width: 18rem;">
+  <img src="pexels-valeriia-miller-6207287.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Meu produto</h5>
+    <p class="card-text">Café arábica puro</p>
+    <a href="#" class="btn btn-primary">Comprar agora</a>
+  </div>
+</div>
+
 </br>
-<img src="pexels-valeriia-miller-6207287.jpg">
 </body>
 </html>
