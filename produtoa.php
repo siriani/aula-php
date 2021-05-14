@@ -19,16 +19,56 @@
         <link href="css/styles.css" rel="stylesheet" />
     </head>
     <body id="page-top">
-<a href="index.php"> Ir para o inicio </a> </br>
-<a href="http://www.uol.com.br"> Site do UOL </a>
 
-<h1> Olá pessoas </h1>
-<h2> Olá pessoas </h2>
 
-<a href="index.php"> <button type="button" class="btn btn-primary">Teste</button> </a>
-
-<br>
-
+<div class="card" style="width: 18rem;">
+  <img src="pexels-valeriia-miller-6207287.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Meu produto</h5>
+    <p class="card-text">Café arábica puro</p>
+    <a href="#" class="btn btn-primary">Comprar agora</a>
+  </div>
+</div>
+<div class="card" style="width: 18rem;">
+  <img src="pexels-valeriia-miller-6207287.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Meu produto</h5>
+    <p class="card-text">Café arábica puro</p>
+    <a href="#" class="btn btn-primary">Comprar agora</a>
+  </div>
+</div>
+<div class="card" style="width: 18rem;">
+  <img src="pexels-valeriia-miller-6207287.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Meu produto</h5>
+    <p class="card-text">Café arábica puro</p>
+    <a href="#" class="btn btn-primary">Comprar agora</a>
+  </div>
+</div>
+<div class="card" style="width: 18rem;">
+  <img src="pexels-valeriia-miller-6207287.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Meu produto</h5>
+    <p class="card-text">Café arábica puro</p>
+    <a href="#" class="btn btn-primary">Comprar agora</a>
+  </div>
+</div>
+<div class="card" style="width: 18rem;">
+  <img src="pexels-valeriia-miller-6207287.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Meu produto</h5>
+    <p class="card-text">Café arábica puro</p>
+    <a href="#" class="btn btn-primary">Comprar agora</a>
+  </div>
+</div>
+<div class="card" style="width: 18rem;">
+  <img src="pexels-valeriia-miller-6207287.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Meu produto</h5>
+    <p class="card-text">Café arábica puro</p>
+    <a href="#" class="btn btn-primary">Comprar agora</a>
+  </div>
+</div>
 <div class="card" style="width: 18rem;">
   <img src="pexels-valeriia-miller-6207287.jpg" class="card-img-top" alt="...">
   <div class="card-body">
