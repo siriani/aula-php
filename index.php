@@ -46,6 +46,13 @@
                         <p class="text-white-75 font-weight-light mb-5">Espero que você seja muito feliz</p>
                         <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Clique Aqui</a>
                     </div>
+                    <div class="col-lg-8 align-self-baseline">
+                        <a class="btn btn-primary btn-xl js-scroll-trigger" href="https://teste-php-aula.herokuapp.com/?texto='Allan'">Allan</a>
+                        <a class="btn btn-primary btn-xl js-scroll-trigger" href="https://teste-php-aula.herokuapp.com/?texto='Joana'">Joana</a>
+                        <a class="btn btn-primary btn-xl js-scroll-trigger" href="https://teste-php-aula.herokuapp.com/?texto='Neuza'">Neuza</a>
+                        <a class="btn btn-primary btn-xl js-scroll-trigger" href="https://teste-php-aula.herokuapp.com/?texto='Rosa'">Rosa</a>
+
+                    </div>
                 </div>
             </div>
         </header>
